@@ -30,7 +30,7 @@ gdf_points — GeoDataFrame с колонками:
 4. Вводим домен и redirect (Можно вставить любой сайт, например сам VK)
 ![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/4.jpg?raw=true)
 5. Вводим код из СМС
-6. Заходим в мои приложенияа
+6. Заходим в мои приложения
 ![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/6.jpg?raw=true)
 7. Скроллим вниз и копируем сервисный ключ доступа
 ![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/7.jpg?raw=true)
