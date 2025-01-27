@@ -31,8 +31,8 @@ gdf_points — GeoDataFrame с колонками:
 ![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/4.jpg?raw=true)
 5. Вводим код из СМС
 6. Заходим в мои приложенияа
-![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/61.jpg.jpg?raw=true)
+![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/6.jpg?raw=true)
 7. Скроллим вниз и копируем сервисный ключ доступа
-![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/7.jpg.jpg?raw=true)
+![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/7.jpg?raw=true)
 8. Вставляем свой ключ доступа в переменную vk_access_token
-![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/8.jpg.jpg?raw=true)
+![](https://github.com/rstsluv/VKPhotoGeoTagsScrapper/blob/main/images/8.jpg?raw=true)
